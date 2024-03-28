@@ -1,7 +1,7 @@
 name: flutter_btn
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/somyarsahu/flutter_btn
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
