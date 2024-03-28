@@ -1,7 +1,7 @@
 name: flutter_btn
 description: "A package for flutter button design of different themes."
 version: 0.0.1
-homepage: https://github.com/somyarsahu/flutter_btn
+homepage: https://github.com/SomyaRanjanSahu/flutter_btn
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
